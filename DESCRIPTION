@@ -1,0 +1,13 @@
+Package: miscpalettes
+Title: Selection of miscellaneous color palettes
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Emil",
+           family = "Hvitfeldt",
+           role = c("aut", "cre"),
+           email = "emilhhvitfeldt@gmail.com")
+Description: Contains miscellaneous color palettes that doesn't fit anywhere
+    else.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
