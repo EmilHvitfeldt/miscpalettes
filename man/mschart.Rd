@@ -4,7 +4,9 @@
 \name{mschart}
 \alias{mschart}
 \title{Microsoft Chart for .NET palettes}
-\format{An object of class \code{list} of length 12.}
+\format{
+An object of class \code{list} of length 12.
+}
 \usage{
 mschart
 }

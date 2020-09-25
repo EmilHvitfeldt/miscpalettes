@@ -1,14 +1,14 @@
-#' U.S. Fish and Wildlife Services (usfws) palettes
+#' usfws palettes
 #'
 #' This selection of color palettes contains a list of palettes derived from this
-#' [Instagram post](https://www.instagram.com/p/CFP2H7JBSxR/?igshid=13sg433qx7ts6).
+#' U.S. Fish and Wildlife Services [Instagram post](https://www.instagram.com/p/CFP2H7JBSxR/?igshid=13sg433qx7ts6).
 #'
 #' The available palettes are:
-#' dreaming
-#' jojo
-#' beach
-#' waterfall
-#' sunset
+#' sockeye_salmon
+#' brook_trout
+#' dolly_varden
+#' florida_gar
+#'
 #'
 #' @export
 usfws <- list("sockeye_salmon" = c("#537B9E", "#C5C6CB", "#988421", "#82816C", "#282D33"),
