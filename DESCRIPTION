@@ -6,6 +6,10 @@ Authors@R:
            family = "Hvitfeldt",
            role = c("aut", "cre"),
            email = "emilhhvitfeldt@gmail.com")
+    person(given = "Julia",
+           family = "Piaskowski",
+           role = c("ctb"),
+           email = "julia.piask@gmail.com")
 Description: Contains miscellaneous color palettes that doesn't fit anywhere
     else.
 License: MIT + file LICENSE
