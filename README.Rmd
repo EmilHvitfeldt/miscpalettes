@@ -68,3 +68,15 @@ pals::pal.bands(
   main = "mschart palettes"
 )
 ```
+
+```{r}
+pals::pal.bands( 
+  usfws[[1]],
+  usfws[[2]],
+  usfws[[3]],
+  usfws[[4]],
+  labels = names(usfws),
+  main = "usfws palettes"
+)
+```
+

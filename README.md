@@ -62,3 +62,16 @@ pals::pal.bands(
 ```
 
 <img src="man/figures/README-unnamed-chunk-3-1.png" width="100%" />
+
+``` r
+pals::pal.bands( 
+  usfws[[1]],
+  usfws[[2]],
+  usfws[[3]],
+  usfws[[4]],
+  labels = names(usfws),
+  main = "usfws palettes"
+)
+```
+
+<img src="man/figures/README-unnamed-chunk-4-1.png" width="100%" />
